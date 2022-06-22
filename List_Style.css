@@ -1,0 +1,19 @@
+ul li {
+    /* list-style: lower-roman inside ; */
+
+    list-style-type: upper-roman;
+    list-style-position: inside;
+
+}
+
+
+.main {
+    text-align: center;
+
+
+    border-top: 2px dashed red;
+    border-right: 4px solid black;
+    border-bottom: 3px dotted green;
+    border-left: 4px solid rgb(184, 71, 194);
+    border-radius: 20px;
+}
